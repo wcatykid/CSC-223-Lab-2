@@ -1,2 +1,6 @@
-# CSC-223--1-Skeleton--Geometry-Fact-Computer
+# CSC-223 Lab 2
+
+  Geometry Fact Computer
+
+  Point-based Manipulations
  
